@@ -1,25 +1,18 @@
 ﻿<Properties StartupConfiguration="{A32F17B6-2B19-4AE8-B11F-1063693E33E6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FakeApiContractTests/Models/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="FakeApiContractTests/UnitTest1.cs" Line="65" Column="1" />
-      <File FileName="FakeApiContractTests/Tests/UserContractTests.cs" Line="20" Column="10" />
+      <File FileName="FakeApiContractTests/UnitTest1.cs" Line="37" Column="47" />
+      <File FileName="FakeApiContractTests/Tests/UserContractTests.cs" Line="39" Column="40" />
       <File FileName="FakeApiContractTests/Tests/GetProductContractTests.cs" Line="123" Column="2" />
-      <File FileName="FakeApiContractTests/Tests/GetProductContractTests (copy).cs" Line="111" Column="2" />
-      <File FileName="FakeApiContractTests/Models/User.cs" Line="6" Column="25" />
+      <File FileName="FakeApiContractTests/Tests/GetProductContractTests (copy).cs" Line="34" Column="19" />
+      <File FileName="FakeApiContractTests/Models/User.cs" Line="16" Column="1" />
+      <File FileName=".gitignore" Line="26" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FakeApiContractTests" expanded="True">
-            <Node name="FakeApiContractTests" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Models" expanded="True">
-                <Node name="User.cs" selected="True" />
-              </Node>
-              <Node name="Tests" expanded="True" />
-            </Node>
+          <Node name="FakeApiContractTests" expanded="True" selected="True">
+            <Node name="FakeApiContractTests" expanded="True" />
           </Node>
         </State>
       </Pad>
